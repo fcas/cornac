@@ -1,4 +1,4 @@
-Cython>=3.0.5
+Cython>=3.2.9
 numpy>=1.26.1
 scipy>=1.11.3
 pydata-sphinx-theme>=0.14.1
